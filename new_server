@@ -1,0 +1,4 @@
+ansible-playbook \
+                  new_server-playbook.yml \
+                  --user <192.162.1.1> \
+                  --extra-vars "host=<abu123abu123>"
